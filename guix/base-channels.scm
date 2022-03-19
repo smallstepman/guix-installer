@@ -6,7 +6,7 @@
         ;; Enable signature verification:
         (introduction
          (make-channel-introduction
-          "897c1a470da759236cc11798f4e0a5f7d4d59fbc"
+          "81a651d3aa006e563385d7ff97f5ba5e5666f142"
           (openpgp-fingerprint
            "2A39 3FFF 68F4 EF7A 3D29  12AF 6F51 20A0 22FB B2D5"))))
        %default-channels)
